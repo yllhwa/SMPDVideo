@@ -27,9 +27,9 @@ Simply run `x_inference.py`; upon completion, it will generate the `submission_f
 ### Data Preprocessing
 Run the following scripts in order to complete data preprocessing:
 
-- get_data_feat.py
-- extract_video_embedding.py
-- extract_video_embedding_pca.py
+- `get_data_feat.py`
+- `extract_video_embedding.py`
+- `extract_video_embedding_pca.py`
 
 ### Training
 Just run the following scripts to train the models:
