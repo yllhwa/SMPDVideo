@@ -1,0 +1,15 @@
+catboost==1.2.7
+datasets==3.3.1
+decord==0.6.0
+gensim==4.3.2
+lightgbm==3.3.5
+matplotlib==3.8.4
+numpy==2.2.6
+pandas==2.2.3
+Pillow==11.2.1
+pytorch_tabnet==4.1.0
+scikit_learn==1.4.2
+seaborn==0.13.2
+torch==2.5.1+cu124
+tqdm==4.66.4
+transformers==4.52.3
